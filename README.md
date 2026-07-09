@@ -143,7 +143,9 @@ Prompts, expérimentations et projets réalisés avec les outils d'IA générati
 
 # Me retrouver
 TELEPHONE: 2290198866031
+---
 WHATSAPP:2290198866031
+---
 💼 LinkedIn :
 https://linkedin.com/in/TON-PROFIL
 
