@@ -1,6 +1,6 @@
 # mon--portfolio
 portfolipo
-# 👋 Salut, je suis ASSA Sheriff-Deen
+# Salut, je suis ASSA Sheriff-Deen
 
 ### 💻 Référent Digital | Développeur Web Front-End | Créateur de contenus numériques
 
@@ -8,15 +8,13 @@ Passionné par le numérique, j'aide les particuliers, entreprises et organisati
 
 🎓 Licence en Droit et Sciences Politiques
 
-🎓 Master 1 Audit, Comptabilité et Contrôle de Gestion
-
 🚀 Apprenant Référent Digital chez Simplon Bénin
 
 📍 Parakou, Bénin
 
 ---
 
-# 🚀 À propos de moi
+# À propos de moi
 
 Je suis convaincu que le numérique est un formidable levier de développement.
 
@@ -33,7 +31,7 @@ Aujourd'hui, je développe principalement des projets autour de :
 
 ---
 
-# 🛠️ Stack Technique
+# Stack Technique
 
 ### Front-End
 
@@ -107,25 +105,25 @@ Prompts, expérimentations et projets réalisés avec les outils d'IA générati
 
 ---
 
-# 📈 Ce que je fais
+# Ce que je fais
 
-✅ Création de sites web
+* Création de sites web
 
-✅ Landing Pages
+* Landing Pages
 
-✅ Portfolio professionnel
+* Portfolio professionnel
 
-✅ Communication digitale
+* Communication digitale
 
-✅ Création de contenus
+* Création de contenus
 
-✅ Visuels professionnels
+* Visuels professionnels
 
-✅ Montage vidéo
+* Montage vidéo
 
 ---
 
-# 📚 En ce moment...
+# En ce moment...
 
 - 📖 React.js
 - 📖 JavaScript avancé
@@ -135,7 +133,7 @@ Prompts, expérimentations et projets réalisés avec les outils d'IA générati
 
 ---
 
-# 📊 Statistiques GitHub
+# Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight)
 
@@ -143,8 +141,9 @@ Prompts, expérimentations et projets réalisés avec les outils d'IA générati
 
 ---
 
-# 🌍 Me retrouver
-
+# Me retrouver
+TELEPHONE: 2290198866031
+WHATSAPP:2290198866031
 💼 LinkedIn :
 https://linkedin.com/in/TON-PROFIL
 
